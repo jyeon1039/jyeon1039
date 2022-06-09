@@ -3,7 +3,7 @@ Welcome my github :blush: <br/>
 ## Introduction | Backend Developer
 안녕하세요. 저는 백엔드 개발에 관심이 많은 이지현입니다. <br/>
 사람들과 팀을 이루어 의견을 주고받으며 소통하는 것을 좋아하고, 새로운 기술에 도전하는 것을 좋아합니다. <br/>
-개발할 때 주로 node.js 를 사용했으나 최근에는 spring framework 와 같은 구조화 되어 있는 프레임워크에 흥미가 생겨 spring을 공부하고 있습니다.
+개발할 때 주로 node.js 를 사용했으나 최근에는 구조화 되어 있는 프레임워크에 흥미가 생겨 spring framework 를 공부하고 있습니다.
 
 
 ##  Tech Stack
