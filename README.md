@@ -3,6 +3,8 @@
 - 맡은 업무에서 이슈가 생겼을 때, 해결하기 위해서 시간을 아끼지 않으며 끊임없이 도전합니다. <br/>
 - 자대 연구실에서 학부연구생으로 근무하며 연구실에서 사용하던 DB 테이블의 관계를 분석한 후, 필요한 테이블을 추가하며 확장한 경험이 있습니다. 또한 인턴십을 진행하며 개발 초기 단계에 합류하여 30개 이상의 테이블을 설계한 경험이 있습니다 <br/>
 
+<br/>
+
 ##  Tech Stack
 #### Language & Flamework
 <p> 
@@ -25,6 +27,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
 </p>
+
+<br/>
 
 ## 프로젝트
 ### HollyMolly <br>
