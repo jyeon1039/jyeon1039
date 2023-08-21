@@ -31,8 +31,8 @@
 <br/>
 
 ## 프로젝트
-### HollyMolly <br>
-_[🔗 프로젝트 바로가기]([https://github.com/ksaw1228/SCRIPTER2.0](https://github.com/web-game-project/holly-molly))_
+### 👻 HollyMolly <br>
+[🔗 프로젝트 바로가기](https://github.com/web-game-project/holly-molly)
 
 ##### 소개
 그림을 그리며 마피아 게임을 할 수 있는 실시간 웹 게임
@@ -53,8 +53,8 @@ _[🔗 프로젝트 바로가기]([https://github.com/ksaw1228/SCRIPTER2.0](http
 <br/>
 <hr/>
 
-### GongSa
-_[🔗 프로젝트 바로가기]([https://github.com/ksaw1228/SCRIPTER2.0](https://github.com/study-gongsa/gongsa-server)https://github.com/study-gongsa/gongsa-server)_
+### 📷 GongSa
+[🔗 프로젝트 바로가기](https://github.com/study-gongsa/gongsa-server)
 
 ##### 소개
 스터디 그룹을 만들어 그룹원들과 화상 스터디를 할 수 있는 어플리케이션
