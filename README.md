@@ -54,7 +54,7 @@
 <hr/>
 
 ### 📷 GongSa
-[🔗 프로젝트 바로가기](https://github.com/study-gongsa/gongsa-server)
+[🔗 프로젝트 바로가기](https://github.com/jyeon1039/gongsa-server)
 
 ##### 소개
 스터디 그룹을 만들어 그룹원들과 화상 스터디를 할 수 있는 어플리케이션
